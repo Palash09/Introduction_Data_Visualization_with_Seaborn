@@ -5,3 +5,4 @@ Matplotlib is the fundamental library which is used for plotting graphs but ther
 To counter this, we are using Seaborn which helps in minimizing the code.
 Here, our main focus we will be using in-built functions of Seaborn along with Matplotlib and Pandas.
 The dataset which is used for visualization purposes is Pokemon dataset available for free at Kaggle.
+I have also provided the csv file of the dataset which is used for visualization.
